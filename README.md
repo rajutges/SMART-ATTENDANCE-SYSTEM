@@ -6,4 +6,8 @@ A Modern and smart attendance system using face recognition with real time camer
 Images of students are to be stored in Dataset folder.
 
 
+please see this video for more information.:
+Youtube Link: https://youtu.be/l_fMUzfAIpk
+
+
 
