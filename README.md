@@ -1,7 +1,7 @@
 # SMART-ATTENDANCE-SYSTEM
 An automated attendance system using Real-Time Face recoginition using
 camera
-it returns a excel sheet of attendance per new date .
+Returns the attendance report in form of csv file per new date .
 
 
 **using opencv and face recognition**
