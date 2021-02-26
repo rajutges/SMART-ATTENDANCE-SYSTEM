@@ -5,8 +5,5 @@ A Modern and smart attendance system using face recognition with real time camer
 
 Images of students are to be stored in Dataset folder.
 
-here is the sample of attendance sheet we get (that consists of different coloumn of Roll no. , Name of students , Status ,Time of joining.)
 
-
-!["sample"](https://github.com/rajutges/SMART-ATTENDANCE-SYSTEM/blob/main/Capture.JPG)
 
