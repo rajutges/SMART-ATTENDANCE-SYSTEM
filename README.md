@@ -6,5 +6,5 @@ A Modern and smart attendance system using face recognition with real time camer
 here is the sample of attendance sheet we get (that consists of different coloumn of Roll no. , Name of students , Status ,Time of joining.)
 
 
-
+![alt text](http://url/to/img.png)
 
